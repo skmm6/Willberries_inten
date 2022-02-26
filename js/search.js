@@ -7,5 +7,5 @@ const search = function () {
     })
     console.log(searchBtn);
 }
-
+ 
 search()
